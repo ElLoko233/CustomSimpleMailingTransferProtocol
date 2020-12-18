@@ -165,8 +165,3 @@ class CMP:
             else:
                 return self._smtp_server(msg)
 
-
-if __name__ == "__main__":
-    mail = CMP(mailhost='smtp.gmail.com')
-
-    mail.send_simple_msg(receiver='ellokoprograma@gmail.com', subject='', body='ek weet wat doen jy')

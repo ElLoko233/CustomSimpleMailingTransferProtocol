@@ -1,0 +1,64 @@
+/* index.html style */
+/* Global styles */
+
+/* Mobile Screens */
+	/* Main content */
+		main strong{
+			opacity: 95%;
+		}
+		main p{
+			line-height: 1.9em;.
+		}
+
+		main #CMP-methods .method{
+			line-height: 1.5em;
+			margin-top: 2em;
+			margin-bottom: 0.8em;
+		}
+
+		main #CMP-class{
+			margin-bottom: 2.5em; 
+		}
+		main #CMP-class ul{
+			list-style: none;
+			margin-left: 1.2em;
+			margin-top: 1.2em;
+			line-height: 1.8em;
+		}
+		main #CMP-class ul li{
+			margin-top: 1.2em;
+		}
+
+		main #CMP-methods h2{
+			opacity: 85%;
+		}
+		main #CMP-methods ul{
+			list-style: none;
+			margin-left: 1.2em;
+			margin-top: 1.2em;
+			line-height: 1.8em;
+		}
+
+
+/* Medium Screens */
+@media only screen and (min-width: 600px) {
+	/* Main content */
+		main strong{
+			opacity: 98%;
+		}
+
+	/* sd-container */
+		
+
+	/* Side navigation bar */
+	
+
+}
+
+/* Larger Screens */
+@media only screen and (min-width: 1024px){
+	
+	/* Side navigation bar */
+	
+	
+}

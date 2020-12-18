@@ -1,0 +1,29 @@
+/* index.html style */
+/* Global styles */
+
+/* Mobile Screens */
+	/* sd-container */
+
+	/* Side navigation bar */
+
+	/* Main content */
+
+
+/* Medium Screens */
+@media only screen and (min-width: 600px) {
+
+	/* sd-container */
+		
+
+	/* Side navigation bar */
+	
+
+}
+
+/* Larger Screens */
+@media only screen and (min-width: 1024px){
+	
+	/* Side navigation bar */
+	
+	
+}
